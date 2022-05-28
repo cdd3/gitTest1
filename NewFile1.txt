@@ -1,1 +1,3 @@
 This is a new file created on github
+
+Here is a line added on the local machine in a new branch
